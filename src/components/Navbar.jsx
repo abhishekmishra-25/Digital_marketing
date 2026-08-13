@@ -30,7 +30,7 @@ export default function Navbar() {
         </ul>
 
         <a
-          href="/crm"
+          href="/login"
           className="hidden md:inline-block bg-brand-gradient text-white text-sm font-medium px-5 py-2.5 rounded-full hover:opacity-90 transition-opacity"
         >
           Team Login
