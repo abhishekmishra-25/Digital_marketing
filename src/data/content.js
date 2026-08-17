@@ -3,7 +3,7 @@
 // is hardcoded inside the components themselves.
 
 export const brand = {
-  name: "Optimizene",
+  name: "PS Global",
   tagline: "Marketing that compounds",
   whatsappNumber: "910000000000", // country code + number, no + or spaces
   email: "hello@yourdomain.com",
